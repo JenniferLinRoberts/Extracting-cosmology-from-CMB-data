@@ -1,4 +1,5 @@
 # Extracting-cosmology-from-CMB-data
-My final year University project at Cardiff University
+My final year University project at Cardiff University.
+
 My final year project titled “Extracting cosmology from the cosmic microwave background” was focused on the analysis of a large data set to determine the significance implementing new observational equipment. And the effect this would have on the scientific understanding of cosmology. By adapting open-source python code and implementing my own, I was able to create an iterative algorithm that used statistical methods to analyse how a hypothetical futuristic data set would give better measurements of the composition of the universe. My goal was not to go and take better measurements of the early universe but to predict the degree to which we could go and take better measurements. 
 I chose this project because it combined my interest in cosmology and data analysis using Python code. Through this project I was exposed to complex statistical analysis and though it was tough, I deeply enjoyed the challenge it presented. Through my university career I enjoyed projects involving analysis using code on data sets and choosing this project was a continuation of this. My enjoyment of these projects has led me to pursue a career in analysis. 
